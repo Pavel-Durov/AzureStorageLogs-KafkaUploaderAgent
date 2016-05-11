@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <azure>
+        <connectionString>DefaultEndpointsProtocol=;AccountName=;AccountKey===;BlobEndpoint=;TableEndpoint=;QueueEndpoint=;FileEndpoint=/</connectionString>
+    </azure>
+    <kafka>
+        <ip>104.40.150.167</ip>
+        <port>6667</port>
+    </kafka>
+</config>
